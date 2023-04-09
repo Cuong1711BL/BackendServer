@@ -5,7 +5,7 @@ python-multipart
 pillow
 tensorflow-serving-api==2.5.0
 matplotlib
-numpy==1.19.2
+numpy
 pydantic
-protobuf==3.9.2
-typing-extensions>=4.2.0
+protobuf
+typing-extensionsx
