@@ -8,4 +8,4 @@ matplotlib
 numpy
 pydantic
 protobuf
-typing-extensionsx
+typing-extensions
